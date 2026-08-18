@@ -1,0 +1,11 @@
+#!/bin/bash
+cd /root/sot/anytype_sync || exit 1
+export ANYTYPE_API_BASE=http://127.0.0.1:31999
+export ANYTYPE_API_TOKEN=mock
+export no_proxy=127.0.0.1,localhost
+U=$(sudo -u postgres psql -d sot_research_2026 -tAc "select id from users where is_admin limit 1")
+export SOTC_API_TOKEN=$(curl -sS -X POST -H 'content-type: application/json' -d "{\"userId\":\"$U\",\"label\":\"vm-sync-test\",\"expiresInDays\":null}" http://127.0.0.1:8080/api/create_api_token | grep -oP '"token":"\K[^"]+')
+ss -ltn | grep -q 31999 || nohup python mock_anytype.py >/tmp/mock.log 2>&1 &
+sleep 1
+python sync_client.py "$@" --vault ../tokenization/vault.blob --allow-tf-fallback
+

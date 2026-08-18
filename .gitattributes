@@ -1,0 +1,6 @@
+# Binary payloads: NEVER line-ending-translate these.
+# core.autocrlf=true silently rewrote vault.blob on 2026-08-18, producing a
+# committed copy whose bytes differed from disk. A vault or dump that arrives
+# altered is worse than one that fails to arrive.
+*.blob -text
+*.dump -text
