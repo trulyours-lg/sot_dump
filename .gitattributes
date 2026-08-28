@@ -4,3 +4,8 @@
 # altered is worse than one that fails to arrive.
 *.blob -text
 *.dump -text
+
+# The whole Anytype profile is binary stores (leveldb, badger, flatfs) —
+# including files named *.log that are NOT text. One translated byte
+# corrupts the store, same failure mode as the vault.blob incident above.
+anytype_migrate/** -text

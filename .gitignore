@@ -1,0 +1,12 @@
+# Regenerable Chromium caches inside the Anytype profile — not payload.
+# Everything else in anytype_migrate/ (data/, Local Storage, config) IS payload.
+anytype_migrate/Cache/
+anytype_migrate/Code Cache/
+anytype_migrate/GPUCache/
+anytype_migrate/DawnGraphiteCache/
+anytype_migrate/DawnWebGPUCache/
+anytype_migrate/blob_storage/
+anytype_migrate/logs/
+anytype_migrate/DIPS
+anytype_migrate/DIPS-wal
+anytype_migrate/Shared Dictionary/
