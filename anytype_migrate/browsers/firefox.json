@@ -1,0 +1,9 @@
+{
+  "name": "com.anytype.desktop",
+  "description": "Anytype desktop <-> web clipper bridge",
+  "type": "stdio",
+  "path": "C:\\Users\\lily\\AppData\\Local\\Programs\\anytype\\resources\\app.asar.unpacked\\dist\\nativeMessagingHost.exe",
+  "allowed_extensions": [
+    "anytype@anytype.io"
+  ]
+}

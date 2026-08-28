@@ -1,0 +1,710 @@
+{
+	"setSpellingLang": true,
+	"vaultIsMinimal": false,
+	"lastAppVersion": "0.56.5",
+	"accountId": "A9cmXix6HaWDzzk4MxCs6nke5tFKMSuzuK8hu2ACbtgzS1yR",
+	"gridTitleClick": true,
+	"fullscreenObject": true,
+	"account": {
+		"A9cmXix6HaWDzzk4MxCs6nke5tFKMSuzuK8hu2ACbtgzS1yR": {
+			"spaceId": "bafyreigrzbrhxjsxoihvsxux26ungtuxqvih4imvp7zdojedroxnaamz64.1s1zciplq8t1e"
+		}
+	},
+	"multichatsOnboarding": true,
+	"onboarding": [
+		"objectDescriptionButton",
+		"typeResetLayout",
+		"common",
+		"templateSelect",
+		"collections",
+		"syncStatus",
+		"mainGraph",
+		"inlineCollection",
+		"setSettings",
+		"inlineSet",
+		"chat",
+		"membership"
+	],
+	"showRelativeDates": true,
+	"space": {
+		"bafyreigp4puflon5v5ydjsryx7prxh3degpapbk2q2dbiods2yaeriri3m.1s1zciplq8t1e": {
+			"widgetSections": [
+				{
+					"id": 0,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 2,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 5,
+					"isClosed": true,
+					"isHidden": true
+				},
+				{
+					"id": 3,
+					"isClosed": true,
+					"isHidden": true
+				},
+				{
+					"id": 1,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 4,
+					"isClosed": false,
+					"isHidden": true
+				}
+			],
+			"defaultType": "ot-page",
+			"popupSearch": {
+				"backlink": "bafyreihlvgpm7oub6utg3lohmm4jagii7g7oqltvib52newmrbik2vwxwi"
+			},
+			"comment": {
+				"bafyreie7udi7sft36po4fiblimjhw6vi7oq5zsgi4yl37dd5seya43lwcq": {
+					"parts": [
+						{
+							"style": 0,
+							"type": "text",
+							"text": "",
+							"marks": []
+						}
+					]
+				}
+			}
+		},
+		"": {},
+		"bafyreicvfa3yh2q5yvybducwc2fltti5llsnbl6dtsd77ic2bpme6ixsz4.1s1zciplq8t1e": {
+			"widgetSections": [
+				{
+					"id": 0,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 2,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 5,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 3,
+					"isClosed": false,
+					"isHidden": true
+				},
+				{
+					"id": 1,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 4,
+					"isClosed": false,
+					"isHidden": false
+				}
+			]
+		},
+		"bafyreiegl4qzwh4lqmah7ehxs67hztobkbcm6ni56dti67hxumckxz4bui.1s1zciplq8t1e": {
+			"widgetSections": [
+				{
+					"id": 0,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 2,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 5,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 3,
+					"isClosed": true,
+					"isHidden": false
+				},
+				{
+					"id": 1,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 4,
+					"isClosed": false,
+					"isHidden": false
+				}
+			]
+		},
+		"bafyreiefm5rgp2q7paftynnarodrd3gn3titknop4zjxfiegqumfsmq37i.1s1zciplq8t1e": {},
+		"bafyreibm2uyh7i6553p3t7ejaopffoacmmclxethu34dgnzov22npjrfdu.1s1zciplq8t1e": {
+			"widgetSections": [
+				{
+					"id": 0,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 2,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 5,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 3,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 1,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 4,
+					"isClosed": false,
+					"isHidden": false
+				}
+			]
+		},
+		"bafyreiebi7oazyed5yxs627hghydyt37d3xf63637unzwsywwh4huonpni.1s1zciplq8t1e": {
+			"widgetSections": [
+				{
+					"id": 0,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 2,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 5,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 3,
+					"isClosed": true,
+					"isHidden": true
+				},
+				{
+					"id": 1,
+					"isClosed": true,
+					"isHidden": true
+				},
+				{
+					"id": 4,
+					"isClosed": false,
+					"isHidden": false
+				}
+			]
+		},
+		"bafyreict7i77uh2omeu2fy4rgrbxkhkkdxfwt37m3p5osoaajxjvkiq7ja.1s1zciplq8t1e": {},
+		"bafyreigkj6xosl4ryobkbav3zmwoomr22di7vqa4pcz6bv6ln2eo7rgoyy.1s1zciplq8t1e": {},
+		"bafyreibq4ev5xxfmft6n3ykr6embfjw35rcbiwj56jcv5rbgvame3x64ku.1s1zciplq8t1e": {},
+		"bafyreiazlrnpxuikqlmgpohp73bc6vsrohb6hecpshhc3qcxrbr3p6usqu.1s1zciplq8t1e": {},
+		"bafyreigj37shdp3d5muosn4ujgzagy5pyrjyrrvq4rdebm4lcxdhxkb25u.1s1zciplq8t1e": {},
+		"bafyreiga3joy56qksagdtvijrshmqf2lwpr5hgn62uzyk3wrw52mmuwmbi.1s1zciplq8t1e": {},
+		"bafyreidfjp2av2lahkfbvistrtmahfxntc4szvscpaixdqr3wmbojz5irm.1s1zciplq8t1e": {},
+		"bafyreifxyjpsp3ewdpl6f7r6h6ln7axaxe7nhl36fvr2ql2f4ffwbldbea.1s1zciplq8t1e": {
+			"widgetSections": [
+				{
+					"id": 0,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 2,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 5,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 3,
+					"isClosed": false,
+					"isHidden": true
+				},
+				{
+					"id": 1,
+					"isClosed": false,
+					"isHidden": true
+				},
+				{
+					"id": 4,
+					"isClosed": false,
+					"isHidden": true
+				}
+			],
+			"popupSearch": {
+				"filter": ""
+			}
+		},
+		"bafyreifgxpv74tn25hhnd5c2yuvsduftfbjbz6ryokh5go44wvvdpwketq.1s1zciplq8t1e": {},
+		"bafyreidtsiaqvrluswyixxucalrkzgv6ddspbtgxklge5u65pq5hod6y7i.1s1zciplq8t1e": {
+			"widgetSections": [
+				{
+					"id": 0,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 2,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 5,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 3,
+					"isClosed": true,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 1,
+					"isClosed": true,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 4,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				}
+			]
+		},
+		"bafyreiewszbr2txb744rujamlnc6e7h4tevoqa6cpgi4lbxwef2ssbgkn4.1s1zciplq8t1e": {
+			"widgetSections": [
+				{
+					"id": 0,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 2,
+					"isClosed": false,
+					"isHidden": false
+				},
+				{
+					"id": 5,
+					"isClosed": false,
+					"isHidden": true
+				},
+				{
+					"id": 3,
+					"isClosed": false,
+					"isHidden": true
+				},
+				{
+					"id": 1,
+					"isClosed": false,
+					"isHidden": true
+				},
+				{
+					"id": 4,
+					"isClosed": false,
+					"isHidden": true
+				}
+			]
+		},
+		"bafyreieejefxmee47ofux2jnnngatjbukevqrqpwmz3h5pztmbhnyopwvm.1s1zciplq8t1e": {},
+		"bafyreifxpdkg4z5zkn2aed3hnasultd5sogekolhlvl3eoen5jlple7yce.1s1zciplq8t1e": {
+			"widgetSections": [
+				{
+					"id": 0,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 2,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 5,
+					"isClosed": false,
+					"isHidden": true,
+					"view": "list"
+				},
+				{
+					"id": 3,
+					"isClosed": false,
+					"isHidden": true,
+					"view": "list"
+				},
+				{
+					"id": 1,
+					"isClosed": false,
+					"isHidden": true,
+					"view": "list"
+				},
+				{
+					"id": 4,
+					"isClosed": false,
+					"isHidden": true,
+					"view": "list"
+				}
+			]
+		},
+		"bafyreicpmo6zhiclbckagkqvp3md4hyumgemok63aoo3u5veqcihbun4qu.1s1zciplq8t1e": {
+			"widgetSections": [
+				{
+					"id": 0,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 2,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 5,
+					"isClosed": false,
+					"isHidden": true,
+					"view": "list"
+				},
+				{
+					"id": 3,
+					"isClosed": false,
+					"isHidden": true,
+					"view": "list"
+				},
+				{
+					"id": 1,
+					"isClosed": false,
+					"isHidden": true,
+					"view": "list"
+				},
+				{
+					"id": 4,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				}
+			]
+		},
+		"bafyreidl7xtrxtmvhuolsaz6owzmrv4ns4hsrvx573xdvsxgyifdfzk5si.1s1zciplq8t1e": {
+			"widgetSections": [
+				{
+					"id": 0,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 2,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 5,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 3,
+					"isClosed": false,
+					"isHidden": true,
+					"view": "list"
+				},
+				{
+					"id": 1,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 4,
+					"isClosed": false,
+					"isHidden": true,
+					"view": "list"
+				}
+			]
+		},
+		"bafyreiara4cnbsa2jows6wwfwt3wu6oiz3pfyni75mcendzdj34yvdknbe.1s1zciplq8t1e": {},
+		"bafyreif2ekcwa66pqbivny5xuxlkp6wwbivmaznxyckn7poyltqtznrryi.1s1zciplq8t1e": {},
+		"bafyreidg22npkf7gr4pdivdcaoh3oagafbdcbgu4fvz5wbg7acgswpicsu.1s1zciplq8t1e": {},
+		"bafyreigrzbrhxjsxoihvsxux26ungtuxqvih4imvp7zdojedroxnaamz64.1s1zciplq8t1e": {
+			"widgetSections": [
+				{
+					"id": 0,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 2,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 5,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 3,
+					"isClosed": true,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 1,
+					"isClosed": true,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 4,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				}
+			]
+		},
+		"bafyreifds33j7zvawdkpuz7qcqyzwbpkul4xejk4jube3a4xlgj2s37tw4.1s1zciplq8t1e": {},
+		"bafyreiftlywcwcdceoajpka2zaejef7tvtszbslra2usgee2lwxim3zrrm.1s1zciplq8t1e": {},
+		"bafyreicqzytm6nffp6dp3sggr6hzkiuz55maw3sbdku7gqfcthn3u5wjuq.1s1zciplq8t1e": {},
+		"bafyreidq6ixa4uldpxeclvqjoabp3sqtqalvkyvrltetpghsy6ps3cq2ja.1s1zciplq8t1e": {},
+		"bafyreiagodhgh4d342rtpqszr4mwa64kn6ng6ar2jr6pmolh567xn2tcc4.1s1zciplq8t1e": {
+			"widgetSections": [
+				{
+					"id": 0,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 2,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 5,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 3,
+					"isClosed": true,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 1,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 4,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				}
+			]
+		},
+		"bafyreibawe6v5old43axoe3ll2jei7d5pook5gyd7cbvd3rralgazlcwtq.1s1zciplq8t1e": {},
+		"bafyreibth37m7j5ss2v5kbs53qwa6jzuxbvigqrpknaa22hsnoi2a4q4si.1s1zciplq8t1e": {},
+		"bafyreigllfvo2nhg4ibngkxiyvpiqj2fg4bidaowelvclqb4wbakurpoom.1s1zciplq8t1e": {},
+		"bafyreidhzui5b2cfcewy33tohavtxjvyweavnefbfepjakcbpl2uprglky.1s1zciplq8t1e": {
+			"widgetSections": [
+				{
+					"id": 0,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 2,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 5,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "widgets"
+				},
+				{
+					"id": 3,
+					"isClosed": false,
+					"isHidden": true,
+					"view": "list"
+				},
+				{
+					"id": 1,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 4,
+					"isClosed": false,
+					"isHidden": true,
+					"view": "list"
+				}
+			],
+			"defaultType": "ot-task",
+			"sidebarView": "links"
+		},
+		"bafyreidfkvxwhtlnxyrd6kwb54yhtio7uidxo7epqghvnhnakcyqive5ae.1s1zciplq8t1e": {},
+		"bafyreidtiqyyoqqsvwyejx2mtd4riul3t63x422htxrljfsa24ao3i7ejy.1s1zciplq8t1e": {
+			"widgetSections": [
+				{
+					"id": 0,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 2,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 5,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 3,
+					"isClosed": true,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 1,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				},
+				{
+					"id": 4,
+					"isClosed": false,
+					"isHidden": false,
+					"view": "list"
+				}
+			]
+		},
+		"bafyreig6vqde6h53gj3763g2brgczfwvdx22frrw2pypkllfr6h3w5us2y.1s1zciplq8t1e": {},
+		"bafyreihaftnsvhfc5njtjhi7fuosdxsgsj63ow4cl67ddzqoz2qy5c7gra.1s1zciplq8t1e": {},
+		"bafyreibfmj4fxyazc45wh7666shxuyehju3jb2m5ahi7bigachmvn3d7hi.1s1zciplq8t1e": {},
+		"bafyreiflatu46v6e4jomdsuplkdu3o76kjp5kzbwdouo6hfhkt4cjy4h5q.1s1zciplq8t1e": {},
+		"bafyreietbyntyruwfylvsyisjmtkhaet3sdek2hsfwopps32ugwbakaooi.1s1zciplq8t1e": {},
+		"bafyreido2yz26d4oplf4qaylodjza37q6voy6vtjuomdlakgnpsdpsaldi.feflpjegf2z7": {
+			"chat": {
+				"bafyreieanpzmm3lb44gziz2tu2vr3ufqo54skx35tfflvjur42aq2cxmea": {
+					"text": "",
+					"marks": [],
+					"attachments": []
+				}
+			}
+		},
+		"bafyreia7epawmwvpykdyz45drs6bnkv6o6aj4dc7hmdayai36gq2shd4u4.1s1zciplq8t1e": {},
+		"bafyreiblpho6l557ghnrljst6ctib5k46uhcmgy4h3clflhvw526vke6ta.1s1zciplq8t1e": {},
+		"bafyreidhz76n4qtmwpg75qoaty53kr3sqg63xcswh6xa5gl7vptdgfcnba.1s1zciplq8t1e": {}
+	},
+	"sidebarData": {
+		"left": {
+			"width": 426,
+			"isClosed": false,
+			"savedClosed": false
+		},
+		"subLeft": {
+			"width": 293.01043701171875,
+			"isClosed": false,
+			"savedClosed": false
+		},
+		"right": {
+			"width": 336,
+			"isClosed": true,
+			"savedClosed": false
+		}
+	},
+	"survey": {
+		"0": {
+			"complete": true
+		},
+		"2": {
+			"time": 1787761098
+		}
+	},
+	"highlights": {
+		"createSpace": false,
+		"whatsNew": true,
+		"developer": false,
+		"developerPortal": false
+	},
+	"menuSmile": {
+		"recent": [
+			{
+				"id": "artist",
+				"skin": 1
+			},
+			{
+				"id": "eyes",
+				"skin": 1
+			},
+			{
+				"id": "fencer",
+				"skin": 1
+			}
+		],
+		"skin": 1,
+		"tab": 3
+	},
+	"popupExport": {
+		"format": "1",
+		"zip": false,
+		"nested": true,
+		"files": true,
+		"archived": false,
+		"json": true,
+		"landscape": false,
+		"pageSize": "A4",
+		"background": ""
+	},
+	"whatsNew": false
+}
